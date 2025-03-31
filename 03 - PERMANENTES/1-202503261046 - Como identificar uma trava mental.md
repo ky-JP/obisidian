@@ -2,7 +2,7 @@
 ID: 1-202503261046
 tags:
   - nota-permanente
-  - nota-quente
+  - nota-pratica
 Referências: "[[1-202503240852 - Viver com ousadia]]"
 Pag. Ref.: "71"
 Relação: "[[1-202503261042 - Dissonância cognitiva]]"

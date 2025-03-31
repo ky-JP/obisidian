@@ -2,7 +2,7 @@
 ID: 1-202503291603
 tags:
   - nota-permanente
-  - nota-quente
+  - nota-pratica
 Referências: "[[1-202503240852 - Viver com ousadia]]"
 Pag. Ref.: "128"
 Relação: "[[1-202503291648 - Crie seu plano de ação oposta]]"

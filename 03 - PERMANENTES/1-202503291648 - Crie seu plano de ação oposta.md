@@ -2,7 +2,7 @@
 ID: 1-202503291648
 tags:
   - nota-permanente
-  - nota-quente
+  - nota-pratica
 Referências: "[[1-202503240852 - Viver com ousadia]]"
 Pag. Ref.: "142"
 Relação: "[[1-202503291603 - Identifique os botões de alerta]]"

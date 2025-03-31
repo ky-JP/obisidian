@@ -21,6 +21,13 @@ MARQUES, Luana. **Viver com ousadia**. Trad. Beatriz Medina. Rio de Janeiro, RJ:
 [[1-202503261042 - Dissonância cognitiva]]
 [[1-202503261122 - Flexibilidade cognitiva]]
 [[1-202503281543 - Modifique seu ponto de vista]]
+[[1-202503281608 - Contextos relacionados com a flexibilidade cognitiva]]
+[[1-202503291522 - Regulação emocional]]
+[[1-202503291540 - A idade e a regulação emocional]]
+[[1-202503291600 - Evitação reativa]]
+[[1-202503291648 - Crie seu plano de ação oposta]]
+[[1-202503291702 - Questões sobre o plano de ação oposta]]
+
 # RESUMO
 
 # CITAÇÕES E COMENTÁRIOS
