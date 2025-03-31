@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "51ac5495af782946",
+    "type": "split",
+    "children": [
+      {
+        "id": "f72e3ead13d21d10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c5951982f08b58c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - PERMANENTES/1-202503291702 - Questões sobre o plano de ação oposta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-202503291702 - Questões sobre o plano de ação oposta"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05c0fba4964a5422",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4651b4b2e6816f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e69c3dbfbf518cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "3ac9d0e7464d1880",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2cd37a84cb2da270",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1f7274a9e7fb9e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c58bb27ab62c0501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cc15a43d600bb82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "25c7e89c76166cd0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7fed2cffefb27153",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d3d378f6550b7218",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "4c5951982f08b58c",
+  "lastOpenFiles": [
+    "03 - PERMANENTES/1-202503291648 - Crie seu plano de ação oposta.md",
+    "03 - PERMANENTES/1-202503291702 - Questões sobre o plano de ação oposta.md",
+    "03 - PERMANENTES/1-202503291603 - Identifique os botões de alerta.md",
+    "03 - PERMANENTES/1-202503291600 - Evitação reativa.md",
+    "03 - PERMANENTES/1-202503291540 - A idade e a regulação emocional.md",
+    "03 - PERMANENTES/1-202503291522 - Regulação emocional.md",
+    "03 - PERMANENTES/1-202503281608 - Contextos relacionados com a flexibilidade cognitiva.md",
+    "03 - PERMANENTES/1-202503281543 - Modifique seu ponto de vista.md",
+    "03 - PERMANENTES/1-202503261122 - Flexibilidade cognitiva.md",
+    "03 - PERMANENTES/1-202503261109 - Viés de confirmação.md",
+    "03 - PERMANENTES/1-202503261046 - Como identificar uma trava mental.md",
+    "03 - PERMANENTES/1-202503261042 - Dissonância cognitiva.md",
+    "03 - PERMANENTES/1-202503261007 - Pensamentos distorcidos.md",
+    "03 - PERMANENTES/1-202503260958 - Revele suas lentes ocultas.md",
+    "03 - PERMANENTES/1-202503241608 - Distorções cognitivas.md",
+    "03 - PERMANENTES/1-202503241228 - Os alarmes falsos do cérebro.md",
+    "03 - PERMANENTES/1-202503241034 - Avançar na direção do desconforto.md",
+    "03 - PERMANENTES/1-202503241138 - Evitação psicológica.md",
+    "Sem título.md",
+    "01 - ÍNDICE/1 - DESENVOLVIMENTO PESSOAL.md",
+    "02 - REFERÊNCIAS/1-202503240852 - Viver com ousadia.md",
+    "03 - PERMANENTES/1-202503241515 - Córtex pré-frontal.md",
+    "03 - PERMANENTES/1-202503241208 - Regiões cerebrais envolvidas na evitação.md",
+    "MODELOS/modelo-nota-permanente.md",
+    "03 - PERMANENTES/1-202503240854 - Título da nota permanente.md",
+    "MODELOS/modelo-nota-referencia.md",
+    "Sem título",
+    "MODELOS",
+    "03 - PERMANENTES",
+    "02 - REFERÊNCIAS",
+    "01 - ÍNDICE"
+  ]
+}
