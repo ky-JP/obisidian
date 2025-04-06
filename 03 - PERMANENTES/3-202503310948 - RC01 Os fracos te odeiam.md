@@ -1,11 +1,11 @@
 ---
-ID: 2-202503310948
+ID: 3-202503310948
 tags:
   - nota-permanente
 Referências: "[[2-202503310945 - Trilha do machado]]"
 Pag. Ref.: 
 Relação: 
-Tema: "[[2 - MINDSET]]"
+Tema: "[[3 - MENTALIDADE VIVENCIAL]]"
 ---
 # NOTA 
 

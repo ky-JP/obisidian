@@ -27,7 +27,23 @@ MARQUES, Luana. **Viver com ousadia**. Trad. Beatriz Medina. Rio de Janeiro, RJ:
 [[1-202503291600 - Evitação reativa]]
 [[1-202503291648 - Crie seu plano de ação oposta]]
 [[1-202503291702 - Questões sobre o plano de ação oposta]]
-
+[[1-202503311331 - Identifique sua permanência]]
+[[1-202503311359 - A emoção e a tomada de decisão]]
+[[1-202503311408 - Reflexão]]
+[[1-202503311705 - Comportamento emocional]]
+[[1-202503311735 - Reflexão, Sinta a doçura]]
+[[1-202503311756 - Reflexão, identificar valores é muito doce]]
+[[1-202503311359 - A emoção e a tomada de decisão]]
+[[1-202503311408 - Reflexão]]
+[[1-202503311705 - Comportamento emocional]]
+[[1-202503311735 - Reflexão, Sinta a doçura]]
+[[1-202503311756 - Reflexão, identificar valores é muito doce]]
+[[1-202504051418 - Reflexão. Azedume, dar dor aos valores]]
+[[1-202504051438 - Reflexão, há valores no azedume]]
+[[1-202504051450 - Reflexão, a varinha mágica]]
+[[1-202504051514 - Reflexão, plano ousado para uma visão ousada]]
 # RESUMO
+
+A autora aborda temas importantes na psicologia no ramo da TCC, apresentando temas como evitação psicológica, viés de confirmação. Perante trabalhar sobre a evitação é importante abordar a evitação psicológica para que possamos agir mais racionalmente e que esse comportamento reforce internamente em nós uma experiência ousada, capaz de modificar, abordar e alinhar os problemas que a evitação psicológica nos traz.
 
 # CITAÇÕES E COMENTÁRIOS

@@ -5,7 +5,7 @@ tags:
 Referências: "[[2-202503311006 - Mentalidade Cão Pastor]]"
 Pag. Ref.: 
 Relação: 
-Tema: "[[2 - MINDSET]]"
+Tema: "[[2 - MENTALIDADE ESTRUTURAL]]"
 ---
 # NOTA 
 
