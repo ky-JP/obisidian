@@ -13,4 +13,4 @@ Primeiro de tudo, **no conforto ninguém cresce.**
 
 Se estou confortável em tudo, logo não estou progredindo.
 
-A capacidade de buscar conforto implica em **transpor desafios**, superar o seu próprio potencial.
+A capacidade de buscar desconforto implica em **transpor desafios**, superar o seu próprio potencial.

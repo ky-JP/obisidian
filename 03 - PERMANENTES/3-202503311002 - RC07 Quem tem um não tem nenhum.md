@@ -13,6 +13,6 @@ Se você só tiver e manter somente um único caminho você corre o risco de fic
 
 É importante ter um protocolo de dupla verificação, um protocolo com pelo menos duas vias. 
 
-Tendo em vista a teoria do **cisne negro**, no qual é um evento que não a gente não se calcula e nem prevê, pode impedir a efetividade das minhas estratégias.
+Tendo em vista a teoria do **cisne negro**, no qual é um evento que não a gente não consegue calcular e nem prever, pode impedir a efetividade das minhas estratégias.
 
 É importante que os protocolos tenham origens diferentes.
