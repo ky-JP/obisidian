@@ -28,7 +28,9 @@ Cada ambiente tem um jogo, e devemos jogar conforme esse ambiente.
 
 É bom ter autoconfiança, é bom desenvolver autoconfiança.
 
+A vida é sobre encarar as coisas. 
 
+O propósito do homem é agir com coragem sobre todas as coisas.
 
 
 
