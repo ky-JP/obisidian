@@ -2,7 +2,7 @@
 ID: 3-202504201455
 tags:
   - nota-permanente
-Referências: "[[2-202503310945 - Trilha do machado]]"
+Referências: "[[3-202503310945 - Trilha do machado]]"
 Pag. Ref.: 
 Relação: "[[3-202504201435 - RC17 Eu não sangro em tanque de tubarões]]"
 Tema: "[[3 - MENTALIDADE VIVENCIAL]]"

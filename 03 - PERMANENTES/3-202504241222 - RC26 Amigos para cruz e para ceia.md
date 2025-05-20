@@ -2,7 +2,7 @@
 ID: 3-202504241222
 tags:
   - nota-permanente
-Referências: "[[2-202503310945 - Trilha do machado]]"
+Referências: "[[3-202503310945 - Trilha do machado]]"
 Pag. Ref.: 
 Relação: "[[3-202504201455 - RC18 O caçador, o lobo e o abutre]]"
 Tema: "[[3 - MENTALIDADE VIVENCIAL]]"

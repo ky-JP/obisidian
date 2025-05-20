@@ -21,7 +21,7 @@ Formas de padrão do sistema 1 - O padrão de tomada de decisão em experiência
 
 **DEMANDE ORDENS QUE VOCÊ OUÇA**.
 
-**FALA COM VOCÊ VERBALMENTE SOBRE O QUE EU PRECISO FAZER**.
+**FALA COM VOCÊ VERBALMENTE SOBRE O QUE VOCÊ PRECISA FAZER**.
 
 Falar, apontar e observar.
 

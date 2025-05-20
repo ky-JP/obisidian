@@ -2,7 +2,7 @@
 ID: 3-202504201516
 tags:
   - nota-permanente
-Referências: "[[2-202503310945 - Trilha do machado]]"
+Referências: "[[3-202503310945 - Trilha do machado]]"
 Pag. Ref.: 
 Relação: "[[3-202504182019 - RC12 O poder do perdão]]"
 Tema: "[[3 - MENTALIDADE VIVENCIAL]]"
