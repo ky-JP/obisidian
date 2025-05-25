@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a65e92c6123c91c1",
+        "id": "dff86b62595c4444",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf53d1d44563a1a",
+            "id": "9c44587fd6f77b24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - PERMANENTES/3-202505230700 - RC45 Não seja mal, seja temível.md",
+                "file": "03 - PERMANENTES/3-202505251440 - RC48 Problemas contornáveis e incontornáveis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-202505230700 - RC45 Não seja mal, seja temível"
+              "title": "3-202505251440 - RC48 Problemas contornáveis e incontornáveis"
             }
           }
         ]
@@ -165,13 +165,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8bf53d1d44563a1a",
+  "active": "9c44587fd6f77b24",
   "lastOpenFiles": [
-    "03 - PERMANENTES/3-202504191512 - RC14 Abrace seu monstro.md",
+    "03 - PERMANENTES/3-202505251440 - RC48 Problemas contornáveis e incontornáveis.md",
+    "03 - PERMANENTES/3-202504140658 - RC11 Queimem os navios, estratégia de vitória.md",
+    "03 - PERMANENTES/3-202503310950 - RC03 Porque devemos buscar o desconforto.md",
+    "03 - PERMANENTES/3-202505250750 - RC47 Sua reputação o arruinará.md",
+    "03 - PERMANENTES/3-202505250735 - RC46 Seus dogmas vão te matar.md",
     "03 - PERMANENTES/3-202505230700 - RC45 Não seja mal, seja temível.md",
+    "03 - PERMANENTES/3-202504191512 - RC14 Abrace seu monstro.md",
     "03 - PERMANENTES/3-202505230643 - RC44 Paciência não é uma virtude.md",
     "03 - PERMANENTES/3-202505230637 - RC43 Transformando nações em escravos.md",
-    "03 - PERMANENTES/Sem título.md",
     "2025-05-23.md",
     "03 - PERMANENTES/3-202505192042 - RC42 Convite a briga, introdução.md",
     "03 - PERMANENTES/2-202505101734 - Dever de casa.md",
@@ -188,10 +192,6 @@
     "03 - PERMANENTES/4-202505111524 - Conceito do modelo OSI.md",
     "03 - PERMANENTES/4-202505111520 - Topologia de rede.md",
     "03 - PERMANENTES/4-202505111518 - Tipos de arquitetura de rede de computadores.md",
-    "03 - PERMANENTES/4-202505111514 - Tipos de redes de computadores empresariais.md",
-    "03 - PERMANENTES/4-202505111505 - Noções básicas de redes de computadores.md",
-    "03 - PERMANENTES/4-202505111458 - Principais componentes de uma rede de computadores.md",
-    "03 - PERMANENTES/3-202505061727 - RC34 Objetivo da vida, não ser um cinzento.md",
-    "02 - REFERÊNCIAS/2-202503311006 - Mentalidade Cão Pastor.md"
+    "03 - PERMANENTES/4-202505111514 - Tipos de redes de computadores empresariais.md"
   ]
 }
