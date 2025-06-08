@@ -31,7 +31,7 @@ A 1ª crença que é preciso desenvolver é **superar as CRENÇAS LIMITANTES, en
 
 Eu tenho que ter ciência de onde estou e aonde eu quero chegar. Isso vai demandar tempo, mas você é CAPAZ, **e você vai construir suas CAPACIDADES realizando FEITOS**, aprendendo, errando, fracassando muito, mas não DESISTINDO.
 
-**A pessoa que não tem feitos ela tem muita dificuldade em acreditar que é capaz de fazer alguma coisa.**
+**A pessoa que não tem feitos tem muita dificuldade em acreditar que é capaz de fazer alguma coisa.**
 
 **TODO MUNDO TEM CAPACIDADE, SÓ QUE NEM TODOS ACREDITAM QUE TEM.**
 
