@@ -15,7 +15,7 @@ O aprendizado é complexo, custa muito caro para ser desenvolvido.
 
 Formas de padrão do sistema 1 - O padrão de tomada de decisão em experiências e instintos, ou seja, baseado em padrões já conhecidos.
 
-**Precisão, complexidade e análise** eu preciso demandar meu cérebro para fazer, é o sistema 2.
+**Precisão, complexidade e análise,** eu preciso demandar meu cérebro para fazer, é o sistema 2.
 
 É preciso demandar o cérebro para agir no sistema 2, por exemplo, é preciso falar para si mesmo: **João Paulo, você PRECISA FAZER ISSO**. Isso cria um espelho no seu cérebro.
 

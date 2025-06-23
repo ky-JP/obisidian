@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ddc2087805e2103f",
+        "id": "2f94719e4e3f522f",
         "type": "tabs",
         "children": [
           {
-            "id": "bdc82ff321be99a9",
+            "id": "cc4e2ff7bd1c5bf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - PERMANENTES/3-202506091805 - RC73 Sua fraqueza atrai agressividade.md",
+                "file": "03 - PERMANENTES/3-202506231750 - RC80 Salvando sua vida, entendendo a roda da vida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-202506091805 - RC73 Sua fraqueza atrai agressividade"
+              "title": "3-202506231750 - RC80 Salvando sua vida, entendendo a roda da vida"
             }
           }
         ]
@@ -165,33 +165,33 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bdc82ff321be99a9",
+  "active": "cc4e2ff7bd1c5bf2",
   "lastOpenFiles": [
-    "03 - PERMANENTES/3-20206091729 - RC72 Quem é bom de desculpa, não precisa ser bom em nada.md",
-    "03 - PERMANENTES/3-202506091805 - RC73 Sua fraqueza atrai agressividade.md",
-    "03 - PERMANENTES/2-202505101734 - Dever de casa.md",
-    "03 - PERMANENTES/3-202506090556 - RC71 Quando um homem decide.md",
+    "03 - PERMANENTES/2-202506111920 - Sistema 1 x Sistema 2.md",
+    "03 - PERMANENTES/3-202506231750 - RC80 Salvando sua vida, entendendo a roda da vida.md",
+    "03 - PERMANENTES/3-202506211122 - RC79 Melhore seu rendimento, o mundo é simples, os teóricos que complicam.md",
+    "03 - PERMANENTES/3-202503310948 - RC01 Os fracos te odeiam.md",
+    "03 - PERMANENTES/3-202506211046 - RC78 Você é interesseiro, todo mundo é interesseiro.md",
+    "03 - PERMANENTES/3-202505271734 - RC50 PARTE 2, Calculadora, escalando dominância e rituais da briga.md",
+    "03 - PERMANENTES/3-202505261754 - RC50 PARTE 1, Calculadora de dominância e sua importância na hierarquia social.md",
+    "03 - PERMANENTES/3-202505261711 - RC49 Alfa Beta e a calculadora da dominância.md",
+    "03 - PERMANENTES/3-202506201743 - RC77 Comece por aqui.md",
     "03 - PERMANENTES/3-202506090539 - RC70 Acerte o mais forte.md",
-    "03 - PERMANENTES/3-202506081503 - RC69 Melhor ser desinformado do que mal informado.md",
-    "03 - PERMANENTES/3-202506081446 - RC68 Ninguém sente inveja.md",
-    "03 - PERMANENTES/3-202506081423 - RC67 O gato preto, a busca inconsciente pela negatividade.md",
-    "03 - PERMANENTES/3-202506050513 - RC61 Quem é você, construção da identidade.md",
-    "03 - PERMANENTES/3-202506060639 - RC66 Quem é você diante do espelho, e isso dirá sobre você.md",
-    "03 - PERMANENTES/3-202506060620 - RC65 O poder do não, aprenda a filtrar suas amizades.md",
-    "03 - PERMANENTES/3-202506050701 - RC63 Teoria do caos, curva angular.md",
-    "03 - PERMANENTES/3-202506060555 - RC64 Ganhei um milhão, um bate papo sobre inveja.md",
-    "03 - PERMANENTES/3-202506050558 - RC62, noventa dez, a ilusão do paradoxo de escolha.md",
+    "03 - PERMANENTES/3-202506200951 - RC76 Quer crescer, troque sua ambiência.md",
+    "03 - PERMANENTES/3-202506130541 - RC75 Você não é perfeccionista, só é um medroso disfarçado.md",
+    "03 - PERMANENTES/3-202506120526 - RC74 Nem mesmo quando estive doente fui um doente.md",
+    "03 - PERMANENTES/3-202506091805 - RC73 Sua fraqueza atrai agressividade.md",
+    "1-202503311408 - Reflexão.md",
+    "2025-06-13.md",
+    "03 - PERMANENTES/2-202506111859 - Fundamentos Inteligência emocional.md",
+    "03 - PERMANENTES/2-202505101734 - Dever de casa.md",
     "03 - PERMANENTES/2-202505101726 - Gatilhos de autoridade.md",
-    "03 - PERMANENTES/3-202506021753 - RC60 O brabo, o duro e o forte. Uma visão sobre o que é força..md",
-    "03 - PERMANENTES/3-202506021727 - RC59 O preço de ser forte.md",
-    "03 - PERMANENTES/3-202504261111 - RC30 Limite da ajuda.md",
-    "03 - PERMANENTES/3-202506011604 - RC58 A vida adulta é sobre dor.md",
-    "03 - PERMANENTES/3-202506011537 - RC57 Quem é você quando ouve o que quer ouvir.md",
-    "03 - PERMANENTES/3-202506010908 - RC56 O que você está fazendo pelo seu sonho.md",
-    "03 - PERMANENTES/3-202505280707 - RC55 Nadando com tubarões.md",
-    "2025-05-28.md",
-    "03 - PERMANENTES/3-202505280640 - RC54 Drogas e sua atratividade pelos fracos.md",
-    "03 - PERMANENTES/3-202505271830 - RC52 A subida é solitária.md",
-    "03 - PERMANENTES/3-202505280604 - RC53 Cadar vs Redpill.md"
+    "03 - PERMANENTES/2-202505101708 - Tomadas de decisão.md",
+    "03 - PERMANENTES/2-202505101650 - Entendendo o funcionamento do cérebro.md",
+    "03 - PERMANENTES/2-202505101646 - Duas formas de pensamento, introdução.md",
+    "02 - REFERÊNCIAS/3-202503310945 - Trilha do machado.md",
+    "01 - ÍNDICE/3 - MENTALIDADE VIVENCIAL.md",
+    "03 - PERMANENTES/3-202503311255 - RC08 O ouro não está na superfície.md",
+    "03 - PERMANENTES/3-202504140616 - RC09 Mente civilizada, corpo selvagem.md"
   ]
 }
