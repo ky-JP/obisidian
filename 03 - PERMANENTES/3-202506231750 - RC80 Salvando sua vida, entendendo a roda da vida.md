@@ -32,7 +32,7 @@ O problema é você não conseguir fazer essa roda girar.
 Quando você fica muito tempo parado na tristeza na roda da vida, você começa a desenvolver um tempo mais depressivo, melancólico.
 Quando fica muito tempo na ira, gera estresse como falta de energia, fadiga, baixa imunidade.
 Quando você fica muito tempo na satisfação, você desenvolve vício.
-Quando você fica muito tempo no medo, você tem ansiedade. Você tem uma necessidade muito grande de preservação, que **chegar a ser racional**. Você fica arquitetando problemas que não são seus.
+Quando você fica muito tempo no medo, você tem ansiedade. Você tem uma necessidade muito grande de preservação, que **chegar a ser irracional**. Você fica arquitetando problemas que não são seus.
 
 A tua mãe atendia seus pedidos quando você chorava, o mundo quer mais que você se dane. Eu estou perdendo tempo e energia focando em uma roda da vida que não vai resolver.
 
@@ -69,8 +69,6 @@ Ir a igreja, é fé. Ir por um motivo para ter algo em troca, é material. Ir a 
 **A FALTA DE PROPÓSITO FAZ A TUA RODA FICAR MAIS LENTA.**
 
 10% determinado, ganha qualquer coisa.
-
-**O cara DETERMINADO que o cara sem propósito não tem.**
 
 **A VIDA É 90% SOFRIMENTO**, e você não tem um propósito que te faça lidar com o sentimento, você começa a chafurdar nisso. 
 

@@ -11,7 +11,7 @@ Tema: "[[3 - MENTALIDADE VIVENCIAL]]"
 
 Teoria da simplificação - Tudo aquilo que você entende no pequeno universo, você entende no grande. Simples = Sucesso.
 
-Teoria de Barbell - Tudo aquilo que a gente vai existir, tem que ser 90% conservador e 10% de risco.
+Teoria de Barbell - Tudo aquilo que a gente for investir, tem que ser 90% conservador e 10% de risco.
 
 Ser 90% conservador em tudo o que fizer e 10% risco. Arriscar somente 10%.
 
